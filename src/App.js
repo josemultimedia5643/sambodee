@@ -41,6 +41,7 @@ export default class App extends Component {
     );
     return (
       <React.Fragment>
+        <h1>Sambodee</h1>
         {/* <div style = {this.styles}>
           <Comp1 />
         </div>
